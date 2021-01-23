@@ -10,6 +10,15 @@
 <p>Merci d'avoir pris un peu de votre temps pour remplire ce qquestionnaire, ça nous aide !</p>
   <p>Vous pouvez désormais retourner à l'acceuil ou poursuivre vos recherches.</p>
     <p></p>
+        <form role="search">
+  <div>
+    <input type="search" id="maRecherche" name="q"
+     placeholder="Rechercher sur le site…"
+     aria-label="Rechercher parmi le contenu du site">
+    <button>Rechercher</button>
+  </div>
+</form>
+<p></p>
     <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil</a></button>
 <p> </p>
     <a href="https://maevebestdev.github.io/About_Us/">About us</a>
