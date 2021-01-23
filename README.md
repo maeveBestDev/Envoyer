@@ -7,7 +7,7 @@
 	<body>
   
   <p><strong>Vos réponses on été envoyer avec succès !</strong></p>
-<p>Merci d'avoir pris un peu de votre temps pour remplire ce qquestionnaire, ça nous aide !</p>
+<p>Merci d'avoir pris un peu de votre temps pour remplire ce questionnaire, ça nous aide !</p>
   <p>Vous pouvez désormais retourner à l'acceuil ou poursuivre vos recherches.</p>
     <p></p>
         <form role="search">
